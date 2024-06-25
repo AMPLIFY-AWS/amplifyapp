@@ -5,10 +5,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>Chicken door status:</code> OPEN
         </p>
+
+        <p>Weather status: CLEAR AND SUNNY</p>
+
         <a
           className="App-link"
           href="https://reactjs.org"
